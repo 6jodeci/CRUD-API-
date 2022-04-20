@@ -111,5 +111,3 @@ func main() {
 	log.Fatal(http.ListenAndServe(":8000", r))
 
 }
-
-// TODO 39:00
